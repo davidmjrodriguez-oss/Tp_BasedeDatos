@@ -1,0 +1,18 @@
+UNIDAD 7 · EVIDENCIA MONGODB
+
+Estado: PENDIENTE DE EJECUCIÓN EN EL EQUIPO DEL ALUMNO.
+No se incluye una salida simulada como si fuera una ejecución real.
+
+Comandos:
+  mongosh
+  load('nosql/datos_prueba/crear_datos_mongodb.js')
+  use foodstore_nosql_prueba
+  load('nosql/consultas/consultas_mongodb.js')
+
+Después de ejecutar, reemplazar este archivo por la salida íntegra de mongosh y anotar:
+- Fecha/hora:
+- Versión de MongoDB:
+- Cantidad de documentos:
+- Resultado de integridad de totales:
+- Resultado de pedidos sin líneas:
+- Comparación de IDs con PostgreSQL:
